@@ -7,6 +7,7 @@
 1. Product Card UI Design
 2. Glowing Card UI
 3. Glassmorphism Calculator UI
+4. Pepsi LP UI
 
 ## Licence 📜
 `Design-Hub` is available under the MIT license. See the LICENSE file for more info.
